@@ -1,8 +1,14 @@
 # IoTSystem
 Basic IoT infrastructure based on the platform NodeMCU (ESP8266), initially designed to monitor and log data from sensors in a plantation, highly scalable.
 
+Background:
 
-This IoT systems is design as a centralized operation with two classes of nodes.
+Developed as my gratuation project for my Electronics & Programming couse in high school, this team project was proposed as a challenge with the objective of being a device that could be brought to reality to help the community and with the final goal of creating a well-thought, big and complex project that could be inspirational for junior students for them to participe in STEM fields.
+
+The IoT technology was used because it is highly flexible in terms of the purpose it can accomplish, wether is at home or industrial sector, the IoT architecture has many advantages over a classic system, things that was important for my team, since we wanted to work with something different and challenging while trying to show the application of it in whatever career the future students choose.    
+
+
+This IoT system was initially designed as a centralized operation (but easily scalable to a descentralized one, making use of multiple master nodes) with two classes of nodes, which work together to gather, display, upload and work with the sensors' data.
 
 Slave nodes:
 
