@@ -39,7 +39,7 @@ Master circuit:
 
 General network diagram:
 
-![alt text](https://github.com/acanon74/IoTSystem/blob/main/readme_images/Network Implementation.png?raw=true)
+![alt text](https://github.com/acanon74/IoTSystem/blob/main/readme_images/Network_Implementation.png?raw=true)
 
 Futher things to be implemented:
 
