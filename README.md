@@ -22,14 +22,24 @@ Equipped with the actual sensors, the nodes are meant to be implemented around t
 
 
 Slave code:
+
+![alt text](https://github.com/acanon74/IoTSystem/blob/main/readme_images/CODE_SLAVE.png?raw=true)
+
 Slave circuit:
 
 ![alt text](https://github.com/acanon74/IoTSystem/blob/main/readme_images/PROTEUS_CIRCUIT_SLAVE.jpg?raw=true)
 
 Master code:
+
+![alt text](https://github.com/acanon74/IoTSystem/blob/main/readme_images/CODE_MASTER.png?raw=true)
+
 Master circuit:
 
+![alt text](https://github.com/acanon74/IoTSystem/blob/main/readme_images/PROTEUS_CIRCUIT_MASTER.jpg?raw=true)
+
 General network diagram:
+
+![alt text](https://github.com/acanon74/IoTSystem/blob/main/readme_images/Network Implementation.png?raw=true)
 
 Futher things to be implemented:
 
@@ -40,3 +50,8 @@ Futher things to be implemented:
 -Next iteration of the prototype, covering all the above features
 
 More information:
+
+A document with deeper technical knowledge exists, I am in the process of translating it to english. It will be reference here in the future.
+
+Note: 
+Even though the code and circuits work, I am aware of the flaws these have. This is not a perfect implementation of an idea (like if something even can be perfect), that's why I encourage the reader to use implement whatever changes they see practical. However, in the present I am still working on this project, looking forward to improve the code and write more to put something together of a better quality as my knowledge and abilities grow.
